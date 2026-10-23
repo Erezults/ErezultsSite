@@ -6,4 +6,4 @@ Static site listing every Erezults Apple app (GitHub Pages). Data comes from App
 - `node build.mjs` — regenerates `index.html` + `404.html`
 - `icons/`, `shots/` — App Store artwork (1 screenshot per app)
 
-Live: https://apps.erezults.com (staging domain; intended to become www.erezults.com).
+Live: https://erezults.com (apex; www + apps.erezults.com redirect to it). Design = the previous erezults.com landing language (cosmic dark, starfield, gradient headline), rebuilt as static HTML.

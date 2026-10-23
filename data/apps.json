@@ -29,11 +29,109 @@
     "privacy": "https://xpensy.erezults.com/privacy",
     "version": "1.22.0",
     "icon": "icons/xpensy.png",
-    "shot": "shots/xpensy.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/27/3a/7f273a3a-f080-b7a9-742e-4e194e2362f7/iphone_en_01_trips.png/320x480bb.jpg",
     "blurb": {
       "he": "מעקב הוצאות בטיולים קבוצתיים, סריקת קבלות עם AI והתחשבנות הוגנת — גם בלי אינטרנט.",
       "en": "Track group-trip expenses, scan receipts with AI and settle up fairly, even offline."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/xpensy/he-1.jpg",
+          "shots/xpensy/he-2.jpg",
+          "shots/xpensy/he-3.jpg",
+          "shots/xpensy/he-4.jpg",
+          "shots/xpensy/he-5.jpg",
+          "shots/xpensy/he-6.jpg"
+        ],
+        "mac": [
+          "shots/xpensy/he-mac-1.jpg",
+          "shots/xpensy/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/xpensy/en-1.jpg",
+          "shots/xpensy/en-2.jpg",
+          "shots/xpensy/en-3.jpg",
+          "shots/xpensy/en-4.jpg",
+          "shots/xpensy/en-5.jpg",
+          "shots/xpensy/en-6.jpg"
+        ],
+        "mac": [
+          "shots/xpensy/en-mac-1.jpg",
+          "shots/xpensy/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "מחלקים הוצאות בטיול בלי החישובים המביכים — ובלי השיחות המביכות.\n\nXpensy הופכת את המעקב וחלוקת ההוצאות בטיולים קבוצתיים לפשוטים ומהירים. צלם קבלה, וה-AI מחלץ אוטומטית את הסכום, המטבע, הקטגוריה ושם העסק. שתף הוצאות עם חברי הטיול, ראה מי חייב למי, וסגור חשבונות בלחיצה אחת.\n\nתכונות עיקריות\n\n• סריקת קבלות עם AI — צלם כל קבלה וה-AI יחלץ את כל הפרטים תוך שניות.\n• ריבוי מטבעות — יותר מ-100 מטבעות עם שערי חליפין חיים. מושלם לטיולים בחו\"ל.\n• חלוקת הוצאות חכמה — חלוקה שווה בין חברי הטיול, או סכומים מותאמים אישית לכל אחד.\n• סיכום התחשבנות — ראה בדיוק מי חייב למי, עקוב אחרי תשלומים, וסגור את החשבון בלחיצה.\n• ארגון טיולים — צור תיקיות, קבע תקציבים, עקוב אחרי תאריכים, וארגן כל טיול בצורה מסודרת.\n• מפת הוצאות — ראה כל הוצאה על מפה אינטראקטיבית שמראה בדיוק איפה ביצעת אותה.\n• מצב אופליין מלא — הוסף הוצאות גם ללא אינטרנט. הכל מסתנכרן אוטומטית כשתחזור לרשת.\n• ייצוא — דוחות PDF, Excel ו-CSV מעוצבים, כולל גלריית קבלות מלאה.\n• Face ID — נעילה ביומטרית שומרת על פרטיות המידע הפיננסי שלך.\n• שיתוף מאפליקציות — שתף קבלות ישירות מכל אפליקציה (תמונות, WhatsApp, מייל) אל Xpensy.\n• ווידג'טים — ווידג'טים למסך הבית ולמסך הנעילה לצילום קבלות בלחיצה אחת.\n• ערכות נושא — בהיר, כהה וצבעוני, לפי הטעם שלך.\n\nחינם לשימוש — פרימיום זו אופציה\nXpensy חינמית, והיא תישאר חינמית. עקבו אחר הטיולים שלכם, הזמינו חברים ללא הגבלה, סרקו קבלות והתחשבנו — הכל ללא עלות. פרימיום היא שדרוג אופציונלי לחלוטין — תיתקלו בה רק אם תעברו את המכסה החינמית הנדיבה, והוא פותח סריקת קבלות ב-AI ללא הגבלה ותכונות עוצמה נוספות. בלי לחץ ובלי מחויבות: האפליקציה שאתם משתמשים בה כל יום תמיד חינמית.\n\nפרטיות לפני הכל\n\nהמידע שלך שייך לך. Xpensy אינה מוכרת או משתפת את הנתונים הפיננסיים שלך. האנליטיקה אנונימית לחלוטין וניתן לבטל אותה בכל רגע. מדיניות הפרטיות המלאה: https://xpensy.erezults.com/privacy\n\nנבנה באהבה בישראל על ידי מפתח עצמאי. נשמח לשמוע משוב: xpensy.support@erezults.com\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://xpensy.erezults.com/privacy",
+      "en": "Split group-trip expenses without the awkward math — or the awkward conversations.\n\nXpensy is the smartest way to track and split expenses on group trips. Backpacking with friends, road-tripping with family, or sharing a flat with roommates — Xpensy keeps everyone's spending organized, fair, and transparent. Just snap a receipt and AI fills in the rest.\n\nWHY TRAVELERS LOVE XPENSY\n\n• AI Receipt Scanning — Photograph any receipt and AI instantly pulls the amount, currency, category, date, and merchant. Camera, gallery, or files.\n• Multi-Currency — 100+ currencies with live exchange rates. Spend in yen, baht, or euros and Xpensy converts to your base currency automatically.\n• Fair Group Splitting — Invite friends with a code or QR. Split equally or set custom shares. Everyone sees exactly what they owe.\n• Settle Up in One Tap — A clear \"who owes whom\" summary settles the whole trip in any currency, down to the last cent.\n• Timeline & Insights — Browse expenses by day with category pie charts, budgets, and daily averages.\n• Expense Map — See every purchase pinned on an interactive map of your trip.\n• Works 100% Offline — No signal on the island? Add expenses offline; everything syncs when you're back.\n• Export Anything — Polished PDF, Excel, and CSV reports, plus your full receipt gallery.\n• Face ID Lock — Biometric protection keeps your finances private.\n• Share from Anywhere — Send receipts straight from Photos, WhatsApp, or Mail into Xpensy.\n• Widgets — Home and Lock Screen widgets capture a receipt in one tap.\n• Your Style — Light, dark, and colorful themes.\n\nFREE TO USE — PREMIUM IS OPTIONAL\nXpensy is free, and it stays free. Track your trips, invite unlimited members, scan receipts, and settle up at no cost. Premium is a completely optional upgrade — you only ever see it if you go beyond the generous free limit, and it simply unlocks unlimited AI receipt scanning and extra power features. No pressure and no lock-in: the app you use every day is always free.\n\nPRIVACY FIRST\nYour data is yours. Xpensy never sells or shares your financial information. Analytics are anonymous and opt-out, and you can delete your account anytime. Full privacy policy: https://xpensy.erezults.com/privacy\n\nBuilt with love in Israel by an independent developer. Have an idea? xpensy.support@erezults.com\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://xpensy.erezults.com/privacy"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "מחלקים הוצאות בטיול בלי החישובים המביכים — ובלי השיחות המביכות.",
+          "Xpensy הופכת את המעקב וחלוקת ההוצאות בטיולים קבוצתיים לפשוטים ומהירים. צלם קבלה, וה-AI מחלץ אוטומטית את הסכום, המטבע, הקטגוריה ושם העסק. שתף הוצאות עם חברי הטיול, ראה מי חייב למי, וסגור חשבונות בלחיצה אחת."
+        ],
+        "feats": [
+          {
+            "t": "סריקת קבלות עם AI",
+            "d": "צלם כל קבלה וה-AI יחלץ את כל הפרטים תוך שניות."
+          },
+          {
+            "t": "ריבוי מטבעות",
+            "d": "יותר מ-100 מטבעות עם שערי חליפין חיים. מושלם לטיולים בחו\"ל."
+          },
+          {
+            "t": "חלוקת הוצאות חכמה",
+            "d": "חלוקה שווה בין חברי הטיול, או סכומים מותאמים אישית לכל אחד."
+          },
+          {
+            "t": "סיכום התחשבנות",
+            "d": "ראה בדיוק מי חייב למי, עקוב אחרי תשלומים, וסגור את החשבון בלחיצה."
+          },
+          {
+            "t": "ארגון טיולים",
+            "d": "צור תיקיות, קבע תקציבים, עקוב אחרי תאריכים, וארגן כל טיול בצורה מסודרת."
+          },
+          {
+            "t": "מפת הוצאות",
+            "d": "ראה כל הוצאה על מפה אינטראקטיבית שמראה בדיוק איפה ביצעת אותה."
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Split group-trip expenses without the awkward math — or the awkward conversations.",
+          "Xpensy is the smartest way to track and split expenses on group trips. Backpacking with friends, road-tripping with family, or sharing a flat with roommates — Xpensy keeps everyone's spending organized, fair, and transparent. Just snap a receipt and AI fills in the rest."
+        ],
+        "feats": [
+          {
+            "t": "AI Receipt Scanning",
+            "d": "Photograph any receipt and AI instantly pulls the amount, currency, category, date, and merchant. Camera, gallery, or files."
+          },
+          {
+            "t": "Multi-Currency",
+            "d": "100+ currencies with live exchange rates. Spend in yen, baht, or euros and Xpensy converts to your base currency automatically."
+          },
+          {
+            "t": "Fair Group Splitting",
+            "d": "Invite friends with a code or QR. Split equally or set custom shares. Everyone sees exactly what they owe."
+          },
+          {
+            "t": "Settle Up in One Tap",
+            "d": "A clear \"who owes whom\" summary settles the whole trip in any currency, down to the last cent."
+          },
+          {
+            "t": "Timeline & Insights",
+            "d": "Browse expenses by day with category pie charts, budgets, and daily averages."
+          },
+          {
+            "t": "Expense Map",
+            "d": "See every purchase pinned on an interactive map of your trip."
+          }
+        ]
+      }
     }
   },
   {
@@ -66,11 +164,109 @@
     "privacy": "https://ownest.erezults.com/privacy.html",
     "version": "1.19.0",
     "icon": "icons/ownest.png",
-    "shot": "shots/ownest.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/af/32/ccaf32d3-79ea-3b83-6282-3e693b0ebb3a/iphone_en_01.png/320x480bb.jpg",
     "blurb": {
       "he": "נהלו את ההשכרות בביטחון — מעקב שכירות, קבלות ודוחות מס ישראליים במקום אחד רגוע.",
       "en": "Run your rentals with confidence: rent tracking, receipts and Israeli tax reports in one calm place."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/ownest/he-1.jpg",
+          "shots/ownest/he-2.jpg",
+          "shots/ownest/he-3.jpg",
+          "shots/ownest/he-4.jpg",
+          "shots/ownest/he-5.jpg",
+          "shots/ownest/he-6.jpg"
+        ],
+        "mac": [
+          "shots/ownest/he-mac-1.jpg",
+          "shots/ownest/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/ownest/en-1.jpg",
+          "shots/ownest/en-2.jpg",
+          "shots/ownest/en-3.jpg",
+          "shots/ownest/en-4.jpg",
+          "shots/ownest/en-5.jpg",
+          "shots/ownest/en-6.jpg"
+        ],
+        "mac": [
+          "shots/ownest/en-mac-1.jpg",
+          "shots/ownest/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "Ownest היא הדרך הפשוטה לנהל את הנכסים המושכרים שלכם ולדעת תמיד בדיוק איפה אתם עומדים — הכנסות, הוצאות ומס, הכל במקום אחד.\n\nבין אם יש לכם דירה אחת או תיק נכסים שהולך וגדל, Ownest הופכת ערימות של קבלות וגיליונות למספרים ברורים ולדוחות מוכנים להגשה.\n\n• מעקב הכנסות והוצאות לכל נכס\n• ניהול תיקי נכסים מרובים\n• צילום קבלות ב-AI — צלמו קבלה וה-AI ימלא סכום, תאריך וקטגוריה\n• ייבוא חכם מדפי בנק ב-PDF\n• AI שלומד מהתיקונים שלכם ומשתפר עם הזמן (פרימיום)\n• דוח מס שנתי, מקובץ לפי נכס\n• דוחות רווח והפסד, ציר זמן, מגמות והשוואה\n• ייצוא כל דוח ל-PDF, Excel או CSV\n• הוספת תמונות לכל נכס\n• וידג'טים למסך הנעילה למבט מהיר על המצב\n• שיתוף פעולה עם שותפים או עם רואה החשבון דרך קבוצות\n• תמיכה מלאה בעברית ובאנגלית, כולל תצוגת RTL\n\nחינם לתמיד עד 2 נכסים. שדרוג לפרימיום לנכסים ללא הגבלה, סריקות AI ללא הגבלה, ייצוא דוחות וצוותים גדולים — חודשי, שנתי, או רכישה חד-פעמית לכל החיים.\n\nהמידע שלכם שייך לכם: פרטי, מאובטח, וניתן לייצוא בכל רגע.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://ownest.erezults.com/privacy.html",
+      "en": "Ownest is the simplest way to manage your rental properties and always know exactly where you stand — income, expenses, and tax, all in one place.\n\nWhether you own one apartment or a growing portfolio, Ownest turns scattered receipts and spreadsheets into clear numbers and ready-to-file reports.\n\n• Track income & expenses for every property\n• Manage multiple property portfolios\n• AI receipt capture — snap a receipt and let AI fill in the amount, date and category\n• AI import from PDF bank statements\n• AI that learns from your corrections and gets more accurate over time (Premium)\n• Annual tax report, aggregated by property\n• Profit & loss, timeline, trends and comparison reports\n• Export any report to PDF, Excel or CSV\n• Add photos to each property\n• Lock-Screen widgets for an at-a-glance snapshot\n• Collaborate with partners or your accountant via shared groups\n• Full Hebrew & English with right-to-left support\n\nFree forever for up to 2 properties. Upgrade to Premium for unlimited properties, unlimited AI scans, report exports and larger teams — monthly, yearly, or a one-time Lifetime purchase.\n\nYour data is yours: private, secure, and exportable anytime.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://ownest.erezults.com/privacy.html"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "Ownest היא הדרך הפשוטה לנהל את הנכסים המושכרים שלכם ולדעת תמיד בדיוק איפה אתם עומדים — הכנסות, הוצאות ומס, הכל במקום אחד.",
+          "בין אם יש לכם דירה אחת או תיק נכסים שהולך וגדל, Ownest הופכת ערימות של קבלות וגיליונות למספרים ברורים ולדוחות מוכנים להגשה."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "מעקב הכנסות והוצאות לכל נכס"
+          },
+          {
+            "t": "",
+            "d": "ניהול תיקי נכסים מרובים"
+          },
+          {
+            "t": "צילום קבלות ב-AI",
+            "d": "צלמו קבלה וה-AI ימלא סכום, תאריך וקטגוריה"
+          },
+          {
+            "t": "",
+            "d": "ייבוא חכם מדפי בנק ב-PDF"
+          },
+          {
+            "t": "",
+            "d": "AI שלומד מהתיקונים שלכם ומשתפר עם הזמן (פרימיום)"
+          },
+          {
+            "t": "",
+            "d": "דוח מס שנתי, מקובץ לפי נכס"
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Ownest is the simplest way to manage your rental properties and always know exactly where you stand — income, expenses, and tax, all in one place.",
+          "Whether you own one apartment or a growing portfolio, Ownest turns scattered receipts and spreadsheets into clear numbers and ready-to-file reports."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "Track income & expenses for every property"
+          },
+          {
+            "t": "",
+            "d": "Manage multiple property portfolios"
+          },
+          {
+            "t": "AI receipt capture",
+            "d": "snap a receipt and let AI fill in the amount, date and category"
+          },
+          {
+            "t": "",
+            "d": "AI import from PDF bank statements"
+          },
+          {
+            "t": "",
+            "d": "AI that learns from your corrections and gets more accurate over time (Premium)"
+          },
+          {
+            "t": "",
+            "d": "Annual tax report, aggregated by property"
+          }
+        ]
+      }
     }
   },
   {
@@ -103,11 +299,109 @@
     "privacy": "https://salarix.erezults.com/privacy.html",
     "version": "1.16.0",
     "icon": "icons/salarix.png",
-    "shot": "shots/salarix.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/39/e9/0a39e955-5ea7-dd35-8581-5261ca5deedb/en_01.png/320x480bb.jpg",
     "blurb": {
       "he": "כל תלושי השכר שלכם במקום אחד — סריקה חכמה, מגמות ובדיקת חריגות.",
       "en": "All your payslips in one place: smart scanning, trends and anomaly checks."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/salarix/he-1.jpg",
+          "shots/salarix/he-2.jpg",
+          "shots/salarix/he-3.jpg",
+          "shots/salarix/he-4.jpg",
+          "shots/salarix/he-5.jpg",
+          "shots/salarix/he-6.jpg"
+        ],
+        "mac": [
+          "shots/salarix/he-mac-1.jpg",
+          "shots/salarix/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/salarix/en-1.jpg",
+          "shots/salarix/en-2.jpg",
+          "shots/salarix/en-3.jpg",
+          "shots/salarix/en-4.jpg",
+          "shots/salarix/en-5.jpg",
+          "shots/salarix/en-6.jpg"
+        ],
+        "mac": [
+          "shots/salarix/en-mac-1.jpg",
+          "shots/salarix/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "Salarix — מעקב שכר חכם, פרטי ומאובטח.\n\nסרקו תלוש שכר עם המצלמה — ה-AI קורא את הנתונים לבד: ברוטו, נטו, שעות נוספות, בונוסים ומנהלים. כל ההיסטוריה שלכם הופכת לגרפים, תובנות והשוואות שמראות בדיוק איך השכר שלכם התפתח לאורך השנים.\n\nמה תקבלו:\n• סריקת תלושים ב-AI — מהמצלמה, מהגלריה, מ-PDF או מסורק המסמכים, כולל ייבוא מרובה של תלושים ברצף\n• שיתוף תלוש ישירות מכל אפליקציה או מקובץ — ו-Salarix קורא אותו בשבילכם\n• גרף השוואה שנתי עם פירוק מקורות ההעלאה — מי קידם אתכם: העלאה מנהלתית, מדד, ועד, תפקיד\n• תובנות חכמות — המנהל שהכי קידם אתכם, מגמות בונוסים, שיאי שכר\n• גרפים מלאים — מגמת שכר, שעות נוספות, אחוזי בונוס, עם זום, מסך מלא והשוואות\n• מעקב מנהלים — שייכו כל תקופה למנהל וגלו מי באמת קידם אתכם\n• דוח PDF מעוצב + ייצוא מוצפן (AES-256) וגיבוי מלא\n• ריבוי תיקים ומטבעות — נהלו שכר של כמה בני משפחה\n• עובד גם לא מקוון — הוסיפו וערכו בכל מקום, והכול מסתנכרן אוטומטית כשחוזרים לרשת\n• ווידג'טים למסך הנעילה ולמסך הבית — נתוני השכר האחרונים במבט אחד\n• נעילת Face ID, עברית ואנגלית, עיצוב כהה ובהיר\n\nהנתונים שלכם נשארים שלכם: מאוחסנים מוצפנים, ניתנים לייצוא בכל רגע, ולעולם לא נמחקים — גם בשינוי מסלול.\n\nSalarix עוזר לכם לקבל החלטות קריירה חכמות — כי מי שמודד את השכר שלו, יודע לדרוש יותר.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://salarix.erezults.com/privacy.html",
+      "en": "Salarix — smart, private salary tracking.\n\nScan a payslip with your camera and the AI reads everything: gross, net, overtime, bonuses and managers. Your entire salary history becomes charts, insights and comparisons that show exactly how your pay evolved over the years.\n\nWhat you get:\n• AI payslip scanning — camera, gallery, PDF or document scanner, including batch import\n• Share a payslip straight from any app or your Files — Salarix reads it for you\n• Year-over-year chart with raise-source breakdown — managerial, index, union, role\n• Smart insights — the manager who promoted you most, bonus trends, salary records\n• Full analytics — salary trend, overtime, bonus percentages, with zoom and fullscreen\n• Manager tracking — attribute every period and see who really pushed your career\n• Styled PDF reports + encrypted (AES-256) export and full backup\n• Multiple files and currencies — track the whole family\n• Works offline — add and edit anywhere; everything syncs automatically when you're back online\n• Lock-screen and home-screen widgets — your latest salary at a glance\n• Face ID lock, Hebrew & English, dark & light themes\n\nYour data stays yours: stored encrypted, exportable any time, and never deleted — even when changing plans.\n\nSalarix helps you make smarter career decisions — measure your salary, negotiate better.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://salarix.erezults.com/privacy.html"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "Salarix — מעקב שכר חכם, פרטי ומאובטח.",
+          "סרקו תלוש שכר עם המצלמה — ה-AI קורא את הנתונים לבד: ברוטו, נטו, שעות נוספות, בונוסים ומנהלים. כל ההיסטוריה שלכם הופכת לגרפים, תובנות והשוואות שמראות בדיוק איך השכר שלכם התפתח לאורך השנים."
+        ],
+        "feats": [
+          {
+            "t": "סריקת תלושים ב-AI",
+            "d": "מהמצלמה, מהגלריה, מ-PDF או מסורק המסמכים, כולל ייבוא מרובה של תלושים ברצף"
+          },
+          {
+            "t": "שיתוף תלוש ישירות מכל אפליקציה או מקובץ",
+            "d": "ו-Salarix קורא אותו בשבילכם"
+          },
+          {
+            "t": "גרף השוואה שנתי עם פירוק מקורות ההעלאה",
+            "d": "מי קידם אתכם: העלאה מנהלתית, מדד, ועד, תפקיד"
+          },
+          {
+            "t": "תובנות חכמות",
+            "d": "המנהל שהכי קידם אתכם, מגמות בונוסים, שיאי שכר"
+          },
+          {
+            "t": "גרפים מלאים",
+            "d": "מגמת שכר, שעות נוספות, אחוזי בונוס, עם זום, מסך מלא והשוואות"
+          },
+          {
+            "t": "מעקב מנהלים",
+            "d": "שייכו כל תקופה למנהל וגלו מי באמת קידם אתכם"
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Salarix — smart, private salary tracking.",
+          "Scan a payslip with your camera and the AI reads everything: gross, net, overtime, bonuses and managers. Your entire salary history becomes charts, insights and comparisons that show exactly how your pay evolved over the years."
+        ],
+        "feats": [
+          {
+            "t": "AI payslip scanning",
+            "d": "camera, gallery, PDF or document scanner, including batch import"
+          },
+          {
+            "t": "Share a payslip straight from any app or your Files",
+            "d": "Salarix reads it for you"
+          },
+          {
+            "t": "Year-over-year chart with raise-source breakdown",
+            "d": "managerial, index, union, role"
+          },
+          {
+            "t": "Smart insights",
+            "d": "the manager who promoted you most, bonus trends, salary records"
+          },
+          {
+            "t": "Full analytics",
+            "d": "salary trend, overtime, bonus percentages, with zoom and fullscreen"
+          },
+          {
+            "t": "Manager tracking",
+            "d": "attribute every period and see who really pushed your career"
+          }
+        ]
+      }
     }
   },
   {
@@ -140,11 +434,59 @@
     "privacy": "https://fundiva.erezults.com/privacy/en/",
     "version": "1.13.0",
     "icon": "icons/fundiva.png",
-    "shot": "shots/fundiva.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/5b/16/5f5b1684-28a6-0248-ea0a-e907ed080991/iphone_en_dark_01.png/320x480bb.jpg",
     "blurb": {
       "he": "כל החיסכון הפנסיוני של המשפחה במקום אחד — פנסיה, גמל והשתלמות עם מעקב דמי ניהול.",
       "en": "Your family's pension and savings in one place: pension, provident and study funds with fee tracking."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/fundiva/he-1.jpg",
+          "shots/fundiva/he-2.jpg",
+          "shots/fundiva/he-3.jpg",
+          "shots/fundiva/he-4.jpg",
+          "shots/fundiva/he-5.jpg",
+          "shots/fundiva/he-6.jpg"
+        ],
+        "mac": [
+          "shots/fundiva/he-mac-1.jpg",
+          "shots/fundiva/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/fundiva/en-1.jpg",
+          "shots/fundiva/en-2.jpg",
+          "shots/fundiva/en-3.jpg",
+          "shots/fundiva/en-4.jpg",
+          "shots/fundiva/en-5.jpg",
+          "shots/fundiva/en-6.jpg"
+        ],
+        "mac": [
+          "shots/fundiva/en-mac-1.jpg",
+          "shots/fundiva/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "iOS 27 READY!! תאימות מלאה ל-iOS 27.\n\nFundiva היא האפליקציה למעקב אחר קרנות פנסיה, השתלמות וגמל — לבד או יחד עם המשפחה.\n\nכל הקרנות במקום אחד\nעקבו אחרי יתרות, הפקדות ותשואות של כל הקרנות שלכם — פנסיה, ביטוח מנהלים, קרן השתלמות וקופת גמל — בדשבורד אחד ברור עם גרפים והשוואות זו לצד זו.\n\nשיתוף עם המשפחה\nהזמינו בני משפחה או שותפים לניהול הקרנות המשותפות, עם הרשאות גישה בהתאמה אישית לכל אחד.\n\nייבוא חכם עם AI\nסרקו או העלו דוחות שנתיים מכל גוף מוסדי — Fundiva מזהה את הנתונים אוטומטית ומעדכנת את הקרנות שלכם, בלי הקלדה ידנית. ה-AI אפילו לומד מהתיקונים שלכם ונעשה מדויק יותר עם הזמן.\n\nתובנות ומגמות\nצפו במגמת הצבירה שלכם לאורך זמן, השוו בין קרנות, וקבלו התראות כשההפקדות נעצרות.\n\nווידג'טים ועוד\nהוסיפו ווידג'טים למסך הבית ולמסך הנעילה כדי לראות את הסכומים במבט אחד, עבדו גם בלי אינטרנט, והחליפו בין מצב כהה לבהיר — הכול בעברית או באנגלית.\n\nהבסיס חינם לתמיד — קרן אחת, שני עמיתים ועד 10 קרנות ללא תשלום. שדרוג ל-Premium מסיר את המגבלות ומוסיף קבוצות ללא הגבלה, ייבוא AI מורחב ועוד.\n\nהצטרפו עוד היום ותפסיקו לנחש כמה כסף באמת יהיה לכם לפרישה.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://fundiva.erezults.com/privacy",
+      "en": "iOS 27 READY!! Full compatibility with iOS 27.\n\nFundiva is the app for tracking your pension, provident, and study funds — on your own or together with your family.\n\nALL YOUR FUNDS, ONE PLACE\nTrack balances, deposits, and returns across every fund — pension, executive insurance, study funds (Keren Hishtalmut), and provident funds (Kupat Gemel) — in one clear dashboard with charts and side-by-side comparisons.\n\nSHARE WITH YOUR FAMILY\nInvite family members or partners to manage shared funds together, with custom access permissions for each person.\n\nSMART AI IMPORT\nScan or upload your annual statements from any financial institution — Fundiva reads the data automatically and updates your funds. No manual typing. The AI even learns from your corrections and gets more accurate over time.\n\nINSIGHTS & TRENDS\nSee your accumulation trend over time, compare funds side by side, and get alerted when deposits stop.\n\nWIDGETS & MORE\nAdd Home Screen and Lock Screen widgets to see your totals at a glance, work offline, and switch between dark and light themes — all in Hebrew or English.\n\nFREE FOREVER — one fund, two holders, and up to 10 funds included at no cost. Upgrade to Premium to remove limits and unlock unlimited groups, expanded AI imports, and more.\n\nJoin today and stop guessing how much you'll actually have for retirement.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://fundiva.erezults.com/privacy"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "iOS 27 READY!! תאימות מלאה ל-iOS 27.",
+          "Fundiva היא האפליקציה למעקב אחר קרנות פנסיה, השתלמות וגמל — לבד או יחד עם המשפחה."
+        ],
+        "feats": []
+      },
+      "en": {
+        "lead": [
+          "iOS 27 READY!! Full compatibility with iOS 27.",
+          "Fundiva is the app for tracking your pension, provident, and study funds — on your own or together with your family."
+        ],
+        "feats": []
+      }
     }
   },
   {
@@ -175,11 +517,99 @@
     "privacy": "https://www.termsfeed.com/live/6c46d5f8-672a-4a3c-8d27-2f0868e6cf63",
     "version": "1.9.2",
     "icon": "icons/coin.png",
-    "shot": "shots/coin.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/e2/cc/6ee2ccf9-d5c6-8b72-75df-d6e157934af5/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-02-21_at_19.26.23.png/320x480bb.jpg",
     "blurb": {
       "he": "כל רכישות הקריפטו שלכם במקום אחד — רווח והפסד אמיתיים במבט אחד, וה-AI קורא את הקבלות.",
       "en": "All your crypto purchases in one place: real profit and loss at a glance, and AI that reads your receipts."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/coin/he-1.jpg",
+          "shots/coin/he-2.jpg",
+          "shots/coin/he-3.jpg",
+          "shots/coin/he-4.jpg"
+        ],
+        "mac": []
+      },
+      "en": {
+        "iphone": [
+          "shots/coin/en-1.jpg",
+          "shots/coin/en-2.jpg",
+          "shots/coin/en-3.jpg",
+          "shots/coin/en-4.jpg"
+        ],
+        "mac": []
+      }
+    },
+    "desc": {
+      "he": "CoinTrackLover היא הדרך הפשוטה והממוקדת לעקוב אחרי רכישות הקריפטו שלך ולראות איך התיק שלך באמת מתנהג.\n\nתעד כל רכישה של ביטקוין ואתריום, ו-CoinTrackLover מושך מחירי שוק בזמן אמת כדי להציג את שווי התיק הנוכחי, את הרווח או ההפסד שלך, ואיך ההשקעה שלך צמחה לאורך זמן — הכול בגרפים ברורים וקלים לקריאה.\n\nמה אפשר לעשות\n• לתעד רכישות בשניות — ביטקוין, אתריום ורכישות באשראי, כל אחת בלשונית משלה.\n• לראות שווי בזמן אמת — מחירי ביטקוין ואתריום חיים מעדכנים אוטומטית את שווי התיק הכולל.\n• לעקוב אחרי הרווחים — רווח והפסד לצד שיעור העלייה, לכל רכישה ובסך הכול.\n• להחליף מטבע תצוגה — להציג הכול בדולר ($) או בשקל (₪) בלחיצה אחת.\n• לצלם קבלה — הבינה המלאכותית המובנית קוראת את פרטי הרכישה ישירות מתמונה או צילום מסך, כדי שלא תצטרך להקליד אותם.\n• להשתפר עם הזמן — המערכת לומדת מהתיקונים שלך וקוראת את הקבלות בדיוק רב יותר.\n• מבט חטוף — ווידג'טים למסך הבית ולמסך הנעילה שומרים את התיק שלך במרחק מבט אחד.\n• הנתונים בבעלותך — ייצוא וייבוא של היסטוריית הרכישות מתי שתרצה.\n• פרטי ומאובטח — הנתונים שלך מוגנים מאחורי ההתחברות האישית שלך ומסונכרנים בענן בין המכשירים.\n\nכל מה שצריך כדי לעקוב אחרי הקריפטו שלך — חינם. Coin Premium הוא מנוי אופציונלי שמסיר את המגבלה החודשית על חילוץ נתונים מתמונה בבינה מלאכותית — שום דבר אחר אינו נעול.\n\nפשוט, מהיר, ובנוי לאנשים שאוהבים קריפטו. התחל לעקוב היום.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://www.termsfeed.com/live/6c46d5f8-672a-4a3c-8d27-2f0868e6cf63",
+      "en": "CoinTrackLover is the simple, focused way to track your crypto purchases and see how your portfolio is really doing.\n\nLog every Bitcoin and Ethereum buy, and CoinTrackLover pulls live market prices to show your current portfolio value, your profit or loss, and how your investment has grown over time — all in clear, easy-to-read charts.\n\nWHAT YOU CAN DO\n• Log purchases in seconds — Bitcoin, Ethereum, and credit-card buys, each in its own tab.\n• See real-time value — live BTC and ETH prices update your total portfolio value automatically.\n• Track your gains — profit and loss plus appreciation, for each purchase and overall.\n• Switch currencies — view everything in USD or ILS with a single tap.\n• Snap a receipt — the built-in AI reads the purchase details straight from a photo or screenshot, so you don't have to type them in.\n• Smarter over time — the AI learns from your corrections to read your receipts more accurately.\n• Glance and go — Home Screen and Lock Screen widgets keep your portfolio one look away.\n• Own your data — export and import your purchase history whenever you want.\n• Private and secure — your data stays protected behind your personal sign-in.\n\nEverything you need to track your crypto is free. Coin Premium is an optional subscription that removes the monthly limit on AI photo extraction — nothing else is locked.\n\nSimple, fast, and built for people who love crypto. Start tracking today.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.termsfeed.com/live/6c46d5f8-672a-4a3c-8d27-2f0868e6cf63"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "CoinTrackLover היא הדרך הפשוטה והממוקדת לעקוב אחרי רכישות הקריפטו שלך ולראות איך התיק שלך באמת מתנהג.",
+          "תעד כל רכישה של ביטקוין ואתריום, ו-CoinTrackLover מושך מחירי שוק בזמן אמת כדי להציג את שווי התיק הנוכחי, את הרווח או ההפסד שלך, ואיך ההשקעה שלך צמחה לאורך זמן — הכול בגרפים ברורים וקלים לקריאה."
+        ],
+        "feats": [
+          {
+            "t": "לתעד רכישות בשניות",
+            "d": "ביטקוין, אתריום ורכישות באשראי, כל אחת בלשונית משלה."
+          },
+          {
+            "t": "לראות שווי בזמן אמת",
+            "d": "מחירי ביטקוין ואתריום חיים מעדכנים אוטומטית את שווי התיק הכולל."
+          },
+          {
+            "t": "לעקוב אחרי הרווחים",
+            "d": "רווח והפסד לצד שיעור העלייה, לכל רכישה ובסך הכול."
+          },
+          {
+            "t": "להחליף מטבע תצוגה",
+            "d": "להציג הכול בדולר ($) או בשקל (₪) בלחיצה אחת."
+          },
+          {
+            "t": "לצלם קבלה",
+            "d": "הבינה המלאכותית המובנית קוראת את פרטי הרכישה ישירות מתמונה או צילום מסך, כדי שלא תצטרך להקליד אותם."
+          },
+          {
+            "t": "להשתפר עם הזמן",
+            "d": "המערכת לומדת מהתיקונים שלך וקוראת את הקבלות בדיוק רב יותר."
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "CoinTrackLover is the simple, focused way to track your crypto purchases and see how your portfolio is really doing.",
+          "Log every Bitcoin and Ethereum buy, and CoinTrackLover pulls live market prices to show your current portfolio value, your profit or loss, and how your investment has grown over time — all in clear, easy-to-read charts."
+        ],
+        "feats": [
+          {
+            "t": "Log purchases in seconds",
+            "d": "Bitcoin, Ethereum, and credit-card buys, each in its own tab."
+          },
+          {
+            "t": "See real-time value",
+            "d": "live BTC and ETH prices update your total portfolio value automatically."
+          },
+          {
+            "t": "Track your gains",
+            "d": "profit and loss plus appreciation, for each purchase and overall."
+          },
+          {
+            "t": "Switch currencies",
+            "d": "view everything in USD or ILS with a single tap."
+          },
+          {
+            "t": "Snap a receipt",
+            "d": "the built-in AI reads the purchase details straight from a photo or screenshot, so you don't have to type them in."
+          },
+          {
+            "t": "Smarter over time",
+            "d": "the AI learns from your corrections to read your receipts more accurately."
+          }
+        ]
+      }
     }
   },
   {
@@ -212,11 +642,59 @@
     "privacy": "https://healthy.erezults.com/privacy",
     "version": "1.19.0",
     "icon": "icons/healthy.png",
-    "shot": "shots/healthy.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/cd/21/34cd2120-e963-b86f-c1af-6bcc46fcae4b/01_light_Simulator_Screenshot_iPhone_17_Pro_Max_2026_06_28_at_01.23.50.png/320x480bb.jpg",
     "blurb": {
       "he": "כל התיק הרפואי של המשפחה במקום אחד — פרטי, רגוע וחכם.",
       "en": "Your family's health records in one calm, private place."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/healthy/he-1.jpg",
+          "shots/healthy/he-2.jpg",
+          "shots/healthy/he-3.jpg",
+          "shots/healthy/he-4.jpg",
+          "shots/healthy/he-5.jpg",
+          "shots/healthy/he-6.jpg"
+        ],
+        "mac": [
+          "shots/healthy/he-mac-1.jpg",
+          "shots/healthy/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/healthy/en-1.jpg",
+          "shots/healthy/en-2.jpg",
+          "shots/healthy/en-3.jpg",
+          "shots/healthy/en-4.jpg",
+          "shots/healthy/en-5.jpg",
+          "shots/healthy/en-6.jpg"
+        ],
+        "mac": [
+          "shots/healthy/en-mac-1.jpg",
+          "shots/healthy/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "Healthy הוא בית רגוע ופרטי לתיק הרפואי של המשפחה שלך — בנוי עבור משפחות שאכפת להן.\n\nשמור את כל הרשומות הרפואיות במקום אחד: ביקורי רופא, חיסונים, מרשמים, תוצאות בדיקות, אבחנות ועוד. מאורגן לפי בן משפחה. ניתן לחיפוש. תמיד אתך — באייפון, באייפד ובמק.\n\nשיתוף משפחתי\nצור קבוצה משפחתית והוסף את מי שחשוב לך — הילדים, ההורים, בן או בת הזוג. לכל חבר פרופיל בריאות עצמאי וציר זמן מלא. שתף גישה בצורה מאובטחת עם הורה שני, מטפל, או סבא וסבתא.\n\nסריקת מסמכים בבינה מלאכותית\nצלם כל מסמך רפואי — בעברית או באנגלית. Healthy משתמשת בבינה מלאכותית (מעובד בשרת מאובטח, ללא שמירה במכשיר) כדי לקרוא את המסמך ולמלא אוטומטית את התאריך, הרופא, האבחנה, התרופות ועוד. לחיצה אחת לאישור.\n\nמחזור חיים של תרופות\nעקוב אחר תרופות פעילות לצד היסטוריה מלאה של טיפולים קודמים. דע מה כל בן משפחה לוקח, מתי התחיל ומתי הפסיק.\n\nשיתוף קבצים ישיר\nשלח קובץ ספציפי — סריקה, תוצאת בדיקה, או תמונת מרשם — דרך iMessage, WhatsApp, אימייל או כל אפליקציה. פשוט לחץ על כפתור השיתוף בכרטיסיית הקובץ המצורף, או בתצוגת הקובץ המלאה.\n\nתוסף שיתוף ווידג׳ט\nקיבלת PDF מהמרפאה? שתף אותו ישירות ל-Healthy מ-Files, מייל, או כל אפליקציה. הווידג׳ט במסך הבית מאפשר להוסיף רשומה בלחיצה אחת.\n\nפרטיות קודם כל\nללא פרסומות. ללא ניתוח נתונים של צד שלישי. ללא מכירת נתונים. הנתונים הרפואיים של משפחתך מאוחסנים בצורה מאובטחת — רק אתה והאנשים שהזמנת יכולים לגשת אליהם.\n\nחינמית לתמיד\nHealthy חינמית. תכונות פרימיום — קרדיטים לסריקת מסמכים, שיתוף מורחב ועוד — תמיד אופציונליות. החוויה המרכזית שלך, לתמיד, ללא עלות.\n\nדו-לשוני — עברית ואנגלית\nתמיכה מלאה בעברית RTL בכל מקום באפליקציה. החלף שפה בכל עת בהגדרות.\n\nMac Catalyst\nאותה אפליקציה פועלת באופן מקורי על iPhone, iPad ו-Mac — חינמית בכל המכשירים שלך.\n\nכניסה עם Apple\nכניסה פרטית — ללא סיסמה. Apple ID בלבד.\n\nמדיניות פרטיות: https://healthy.erezults.com/privacy\nתנאי שימוש: https://healthy.erezults.com/terms\nתמיכה: https://healthy.erezults.com/support\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://healthy.erezults.com/privacy",
+      "en": "Healthy is a calm, private home for your family's health records — built for families who care.\n\nKeep every medical record in one place: doctor visits, vaccinations, prescriptions, lab results, diagnoses, and more. Organized by family member. Searchable. Always with you — on iPhone, iPad, and Mac.\n\nFAMILY SHARING\nCreate a family group and add the people who matter — your children, your parents, your partner. Each member gets their own health profile and complete timeline. Share access securely with a co-parent, caregiver, or grandparent.\n\nAI-POWERED DOCUMENT SCANNING\nPhotograph any medical document — in Hebrew or English. Healthy uses AI (processed on a secured server, not stored on device) to read the document and automatically fill in the date, doctor, diagnosis, medications, and more. One tap to confirm.\n\nMEDICATIONS LIFECYCLE\nTrack active medications alongside a full history of past treatments. Know what each family member is taking, when it started, and when it ended.\n\nSHARE ATTACHMENTS DIRECTLY\nSend a specific file — a scan, a lab result, or a prescription image — via iMessage, WhatsApp, email, or any app. Just tap Share on any attachment card or inside the full-screen file viewer.\n\nSHARE EXTENSION & WIDGET\nGot a PDF from your clinic? Share it straight into Healthy from Files, Mail, or any app. The home-screen widget lets you add a record with a single tap.\n\nPRIVACY FIRST\nNo ads. No third-party analytics. No data sold. Your family's health data is stored securely — only you and the people you invite can access it.\n\nFREE FOREVER\nHealthy is free. Premium features — AI credits for document scanning, extended sharing, and more — are always optional. The core experience is yours, forever, at no cost.\n\nBILINGUAL — ENGLISH & HEBREW\nFull Hebrew RTL support throughout the app. Switch language any time in Settings.\n\nMAC CATALYST\nThe same app runs natively on iPhone, iPad, and Mac — free on all your devices.\n\nSIGN IN WITH APPLE\nPrivate sign-in — no password required. Your Apple ID, nothing more.\n\nPrivacy Policy: https://healthy.erezults.com/privacy\nTerms: https://healthy.erezults.com/terms\nSupport: https://healthy.erezults.com/support\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://healthy.erezults.com/privacy"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "Healthy הוא בית רגוע ופרטי לתיק הרפואי של המשפחה שלך — בנוי עבור משפחות שאכפת להן.",
+          "שמור את כל הרשומות הרפואיות במקום אחד: ביקורי רופא, חיסונים, מרשמים, תוצאות בדיקות, אבחנות ועוד. מאורגן לפי בן משפחה. ניתן לחיפוש. תמיד אתך — באייפון, באייפד ובמק."
+        ],
+        "feats": []
+      },
+      "en": {
+        "lead": [
+          "Healthy is a calm, private home for your family's health records — built for families who care.",
+          "Keep every medical record in one place: doctor visits, vaccinations, prescriptions, lab results, diagnoses, and more. Organized by family member. Searchable. Always with you — on iPhone, iPad, and Mac."
+        ],
+        "feats": []
+      }
     }
   },
   {
@@ -249,11 +727,109 @@
     "privacy": "https://emoryx.erezults.com/privacy",
     "version": "1.44.0",
     "icon": "icons/emoryx.png",
-    "shot": "shots/emoryx.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6b/ee/0c6bee4c-bbf2-d32b-283a-b94fd59a6a67/01-vault-home.png/320x480bb.jpg",
     "blurb": {
       "he": "הכספת הפרטית שלכם לתמונות וסרטונים — מוגנת, דיסקרטית ופשוטה.",
       "en": "Your private vault for photos and videos: protected, discreet and simple."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/emoryx/he-1.jpg",
+          "shots/emoryx/he-2.jpg",
+          "shots/emoryx/he-3.jpg",
+          "shots/emoryx/he-4.jpg",
+          "shots/emoryx/he-5.jpg",
+          "shots/emoryx/he-6.jpg"
+        ],
+        "mac": [
+          "shots/emoryx/he-mac-1.jpg",
+          "shots/emoryx/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/emoryx/en-1.jpg",
+          "shots/emoryx/en-2.jpg",
+          "shots/emoryx/en-3.jpg",
+          "shots/emoryx/en-4.jpg",
+          "shots/emoryx/en-5.jpg",
+          "shots/emoryx/en-6.jpg"
+        ],
+        "mac": [
+          "shots/emoryx/en-mac-1.jpg",
+          "shots/emoryx/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "חינמית לתמיד עד 5 תיקיות ו-100 קבצים. השתמש ב-Emoryx לכל החיים, ללא תשלום. Premium אופציונלי.\n\nEmoryx היא מצלמה פרטית וכספת מוצפנת לתמונות, סרטונים ומסמכים שלך — וחינמית לחלוטין, לתמיד. צלמו ישירות אל מרחב מוסתר ומוגן, או ייבאו את מה שכבר יש לכם. ללא חשבון, ללא פרסומות, ללא תקופת ניסיון מוגבלת, וללא מנוי כפוי. אפשר להמשיך להשתמש בה בחינם לכל זמן שתרצה, במסגרת התוכנית החינמית הנדיבה: עד 5 תיקיות ו-100 קבצים. Premium אופציונלי לחלוטין ורק מסיר את המגבלות האלה.\n\nשמור על הרגעים האישיים ביותר שלך הרחק מהרשאות אפליקציות, רשתות חברתיות ועיניים סקרניות. הכל נשאר במכשיר שלך, מוגן ב-PIN, סיסמה או Face ID — ללא שרת, ללא מעקב, לחלוטין ללא אינטרנט.\n\nמה EMORYX עושה\n\n• מצלמה פרטית מובנית — צלמו תמונות והקליטו סרטונים ישירות אל הכספת, בלי שיישמרו בגלריה הרגילה\n• צילום דיסקרטי לרגעים שבהם אתם צריכים פרטיות בדרכים\n• שומר את הקבצים שלך מקומית — שום דבר לא יוצא מהמכשיר ללא אישורך\n• נועל את הכספת כולה בסיסמה או Face ID\n• מצלם כל מי שנכשל בפתיחת האפליקציה (לכידת פולש אופציונלית), נשמר במכשיר בלבד\n• מאפשר ליצור תיקיות נפרדות, כל אחת עם סיסמה אישית אופציונלית\n• מייבא קבצים מהתמונות, המצלמה, קבצים, או כל אפליקציה דרך Share Sheet\n• מציג תמונות, סרטונים ומסמכים באפליקציה, עם מצב מסך מלא לרוחב\n• גיבוי מוצפן ל-iCloud כדי שהכספת תעבור איתך ל-iPhone חדש (Premium)\n\nתוסף שיתוף\nייבא ל-Emoryx ישירות מ-Safari, WhatsApp, Mail, או כל אפליקציה — לחץ שתף ← Emoryx.\n\nווידג'ט מסך נעילה\nקיצור דרך לצילום מהיר על מסך הנעילה. לחיצה אחת לצילום או ייבוא בלי לפתוח את הטלפון.\n\nפרטיות\nEmoryx לא אוסף נתונים. ללא אנליטיקה, ללא מעקב, ללא ספריות צד שלישי. האפליקציה פועלת לחלוטין ללא אינטרנט.\n\nPremium (אופציונלי)\nPremium אף פעם לא נדרש. הוא פשוט מסיר את מגבלות התוכנית החינמית — תיקיות וקבצים ללא הגבלה — ופותח סנכרון מוצפן ב-iCloud. זמין כמנוי חודשי, שנתי, או רכישה חד-פעמית לכל החיים.\n\nזמין בעברית ובאנגלית עם תמיכה מלאה בכיוון ימין-שמאל.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://emoryx.erezults.com/privacy",
+      "en": "Free forever up to 5 folders and 100 files — use Emoryx for life, at no cost. Premium is optional.\n\nEmoryx is a private camera and encrypted vault for your photos, videos, and documents — completely free to use, forever. Capture straight into a hidden, protected space, or import what you already have. No account, no ads, no time-limited trial, and no forced subscription. Keep using it free for as long as you like, within the generous free plan: up to 5 folders and 100 files. Premium is entirely optional and simply lifts those limits.\n\nKeep your most personal moments away from app permissions, social feeds, and prying eyes. Everything stays on your device, protected by a PIN, password, or Face ID — no server, no tracking, fully offline.\n\nWHAT EMORYX DOES\n\n• Built-in private camera — capture photos and record video straight into your vault, never saved to your Camera Roll\n• Discreet capture for moments when you need privacy on the go\n• Stores your files locally on your iPhone — nothing leaves your device without your permission\n• Locks your entire vault with a password or Face ID\n• Photographs anyone who fails to unlock the app (optional intruder capture), kept on your device only\n• Lets you create separate folders, each with its own optional password\n• Imports files from Photos, Camera, Files, or any app via Share Sheet\n• Previews photos, videos, and documents inside the app, with full-screen landscape mode\n• Encrypted iCloud backup so your vault moves with you to a new iPhone (Premium)\n\nSHARE EXTENSION\nImport into Emoryx directly from Safari, WhatsApp, Mail, or any app — tap Share → Emoryx.\n\nLOCK SCREEN WIDGET\nA quick-capture shortcut right on your lock screen. One tap to capture or import without unlocking first.\n\nPRIVACY\nEmoryx collects no data. No analytics, no tracking, no third-party SDKs that phone home. The app works fully offline.\n\nPREMIUM (optional)\nPremium is never required. It simply removes the free-plan limits — unlimited folders and unlimited files — and unlocks encrypted iCloud sync so your vault moves with you to a new iPhone. Available as a monthly, yearly, or one-time lifetime purchase.\n\nAvailable in English and Hebrew with full right-to-left support.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://emoryx.erezults.com/privacy"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "חינמית לתמיד עד 5 תיקיות ו-100 קבצים. השתמש ב-Emoryx לכל החיים, ללא תשלום. Premium אופציונלי.",
+          "Emoryx היא מצלמה פרטית וכספת מוצפנת לתמונות, סרטונים ומסמכים שלך — וחינמית לחלוטין, לתמיד. צלמו ישירות אל מרחב מוסתר ומוגן, או ייבאו את מה שכבר יש לכם. ללא חשבון, ללא פרסומות, ללא תקופת ניסיון מוגבלת, וללא מנוי כפוי. אפשר להמשיך להשתמש בה בחינם לכל זמן שתרצה, במסגרת התוכנית החינמית הנדיבה: עד 5 תיקיות ו-100 קבצים. Premium אופציונלי לחלוטין ורק מסיר את המגבלות האלה."
+        ],
+        "feats": [
+          {
+            "t": "מצלמה פרטית מובנית",
+            "d": "צלמו תמונות והקליטו סרטונים ישירות אל הכספת, בלי שיישמרו בגלריה הרגילה"
+          },
+          {
+            "t": "",
+            "d": "צילום דיסקרטי לרגעים שבהם אתם צריכים פרטיות בדרכים"
+          },
+          {
+            "t": "שומר את הקבצים שלך מקומית",
+            "d": "שום דבר לא יוצא מהמכשיר ללא אישורך"
+          },
+          {
+            "t": "",
+            "d": "נועל את הכספת כולה בסיסמה או Face ID"
+          },
+          {
+            "t": "",
+            "d": "מצלם כל מי שנכשל בפתיחת האפליקציה (לכידת פולש אופציונלית), נשמר במכשיר בלבד"
+          },
+          {
+            "t": "",
+            "d": "מאפשר ליצור תיקיות נפרדות, כל אחת עם סיסמה אישית אופציונלית"
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Free forever up to 5 folders and 100 files — use Emoryx for life, at no cost. Premium is optional.",
+          "Emoryx is a private camera and encrypted vault for your photos, videos, and documents — completely free to use, forever. Capture straight into a hidden, protected space, or import what you already have. No account, no ads, no time-limited trial, and no forced subscription. Keep using it free for as long as you like, within the generous free plan: up to 5 folders and 100 files. Premium is entirely optional and simply lifts those limits."
+        ],
+        "feats": [
+          {
+            "t": "Built-in private camera",
+            "d": "capture photos and record video straight into your vault, never saved to your Camera Roll"
+          },
+          {
+            "t": "",
+            "d": "Discreet capture for moments when you need privacy on the go"
+          },
+          {
+            "t": "Stores your files locally on your iPhone",
+            "d": "nothing leaves your device without your permission"
+          },
+          {
+            "t": "",
+            "d": "Locks your entire vault with a password or Face ID"
+          },
+          {
+            "t": "",
+            "d": "Photographs anyone who fails to unlock the app (optional intruder capture), kept on your device only"
+          },
+          {
+            "t": "",
+            "d": "Lets you create separate folders, each with its own optional password"
+          }
+        ]
+      }
     }
   },
   {
@@ -286,11 +862,107 @@
     "privacy": "https://groupy-web.erezults.com/en/privacy.html",
     "version": "1.20.0",
     "icon": "icons/groupy.png",
-    "shot": "shots/groupy.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/56/49/1356491f-5e97-ffde-e447-32f9c0768c40/1-calendar.png/320x480bb.jpg",
     "blurb": {
       "he": "היומן המשותף של הקבוצה והמשפחה — אירועים, תשלומים ותזכורות במקום אחד.",
       "en": "The shared calendar for your family and groups: events, payments and reminders in one place."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/groupy/he-1.jpg",
+          "shots/groupy/he-2.jpg",
+          "shots/groupy/he-3.jpg",
+          "shots/groupy/he-4.jpg",
+          "shots/groupy/he-5.jpg",
+          "shots/groupy/he-6.jpg"
+        ],
+        "mac": [
+          "shots/groupy/he-mac-1.jpg",
+          "shots/groupy/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/groupy/en-1.jpg",
+          "shots/groupy/en-2.jpg",
+          "shots/groupy/en-3.jpg",
+          "shots/groupy/en-4.jpg",
+          "shots/groupy/en-5.jpg",
+          "shots/groupy/en-6.jpg"
+        ],
+        "mac": [
+          "shots/groupy/en-mac-1.jpg",
+          "shots/groupy/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "החיים המשפחתיים עמוסים — Groupy שומר על כולם מסונכרנים. זהו היומן המשותף לאירועים, ימי הולדת ופעילויות, עם צבע לכל אדם, כך שמבט אחד מספיק כדי לראות מי עושה מה ומתי.\n\nתכונות עיקריות:\n• יומן חודשי ויומי משותף עם אירועים מקודדי צבע לכל חבר\n• הזמנת משפחה וחברים בשניות עם קישור או קוד QR\n• חשבון משלו לכל חבר כדי להוסיף ולנהל אירועים\n• יצירת אירועים עם AI — פשוט תארו, צלמו או דברו\n• צירוף תמונות ומסמכים (PDF, Word, Excel) — עם צופה מלא-מסך, זום וחיתוך\n• מעקב ימי הולדת עם תצוגה שנתית וחגיגות\n• אירועים רב-יומיים מוצגים כפסים ברורים על היומן\n• סוגי אירועים עם אייקונים מותאמים, קטגוריות ותבניות\n• מעקב הוצאות משותפות וראייה מיידית מי חייב כמה\n• ווידג'ט למסך הבית ולמסך הנעילה עם אירועי היום במבט אחד\n• התראות על אירועים וימי הולדת קרובים\n• דוחות חודשיים לסקירת כל מה שהקבוצה עשתה\n• עובד גם ללא אינטרנט — היומן תמיד זמין\n• ניהול כמה קבוצות ומעבר ביניהן בכל רגע\n• בחירת גודל טקסט, וערכות בהיר/כהה עם 8 פלטות צבע\n• עברית ואנגלית עם תמיכה מלאה בכיווניות ימין-לשמאל\n• עובד מצוין על iPhone, iPad ו-Mac\n\nמושלם למשפחות, שותפים לדירה, קבוצות ספורט או כל קבוצה שרוצה להישאר מאורגנת יחד. הורידו את Groupy ורכזו את כל התוכניות במקום אחד.\n\nתנאי שימוש (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nמדיניות פרטיות: https://groupy-web.erezults.com/privacy.html",
+      "en": "Family life is busy — Groupy keeps everyone on the same page. It's the shared calendar for events, birthdays, and activities, with a color for every person, so a single glance shows who's doing what, and when.\n\nKey Features:\n• Shared monthly and daily calendar with color-coded events for each member\n• Invite family and friends in seconds with a link or QR code\n• Give each member their own login to add and manage events\n• AI-powered event creation — just describe it, snap a photo, or speak\n• Attach photos and documents (PDF, Word, Excel) — with a full-screen viewer, zoom, and crop\n• Birthday tracking with a yearly overview and fun celebrations\n• Multi-day events shown as clear bars across the calendar\n• Event types with custom icons, categories, and templates\n• Track shared costs and see who owes what, instantly\n• Home and Lock Screen widget for today's events at a glance\n• Push notifications for upcoming events and birthdays\n• Monthly reports to review everything your group did\n• Works offline — your calendar is always available\n• Manage several groups and switch between them anytime\n• Choose your text size, plus light, dark, and 8 color themes\n• Hebrew and English with full right-to-left support\n• Works beautifully on iPhone, iPad, and Mac\n\nPerfect for families, roommates, sports teams, or any group that wants to stay organized together. Download Groupy and bring everyone's plans into one place.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://groupy-web.erezults.com/privacy.html"
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "החיים המשפחתיים עמוסים — Groupy שומר על כולם מסונכרנים. זהו היומן המשותף לאירועים, ימי הולדת ופעילויות, עם צבע לכל אדם, כך שמבט אחד מספיק כדי לראות מי עושה מה ומתי."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "יומן חודשי ויומי משותף עם אירועים מקודדי צבע לכל חבר"
+          },
+          {
+            "t": "",
+            "d": "הזמנת משפחה וחברים בשניות עם קישור או קוד QR"
+          },
+          {
+            "t": "",
+            "d": "חשבון משלו לכל חבר כדי להוסיף ולנהל אירועים"
+          },
+          {
+            "t": "יצירת אירועים עם AI",
+            "d": "פשוט תארו, צלמו או דברו"
+          },
+          {
+            "t": "צירוף תמונות ומסמכים (PDF, Word, Excel)",
+            "d": "עם צופה מלא-מסך, זום וחיתוך"
+          },
+          {
+            "t": "",
+            "d": "מעקב ימי הולדת עם תצוגה שנתית וחגיגות"
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Family life is busy — Groupy keeps everyone on the same page. It's the shared calendar for events, birthdays, and activities, with a color for every person, so a single glance shows who's doing what, and when."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "Shared monthly and daily calendar with color-coded events for each member"
+          },
+          {
+            "t": "",
+            "d": "Invite family and friends in seconds with a link or QR code"
+          },
+          {
+            "t": "",
+            "d": "Give each member their own login to add and manage events"
+          },
+          {
+            "t": "AI-powered event creation",
+            "d": "just describe it, snap a photo, or speak"
+          },
+          {
+            "t": "Attach photos and documents (PDF, Word, Excel)",
+            "d": "with a full-screen viewer, zoom, and crop"
+          },
+          {
+            "t": "",
+            "d": "Birthday tracking with a yearly overview and fun celebrations"
+          }
+        ]
+      }
     }
   },
   {
@@ -323,11 +995,109 @@
     "privacy": "https://homenetip.erezults.com/privacy",
     "version": "1.16.0",
     "icon": "icons/homenetip.png",
-    "shot": "shots/homenetip.jpg",
-    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f2/07/dff207e9-f273-69e9-49a0-411052863bf4/iphone_en_01_dashboard.png/320x480bb.jpg",
     "blurb": {
       "he": "ראו מי מחובר לרשת הבית ברגע אחד — סריקה, התראות על מכשירים זרים וניהול חכם.",
       "en": "See who's on your home network at a glance: scanning, alerts for unknown devices and smart management."
+    },
+    "gallery": {
+      "he": {
+        "iphone": [
+          "shots/homenetip/he-1.jpg",
+          "shots/homenetip/he-2.jpg",
+          "shots/homenetip/he-3.jpg",
+          "shots/homenetip/he-4.jpg",
+          "shots/homenetip/he-5.jpg",
+          "shots/homenetip/he-6.jpg"
+        ],
+        "mac": [
+          "shots/homenetip/he-mac-1.jpg",
+          "shots/homenetip/he-mac-2.jpg"
+        ]
+      },
+      "en": {
+        "iphone": [
+          "shots/homenetip/en-1.jpg",
+          "shots/homenetip/en-2.jpg",
+          "shots/homenetip/en-3.jpg",
+          "shots/homenetip/en-4.jpg",
+          "shots/homenetip/en-5.jpg",
+          "shots/homenetip/en-6.jpg"
+        ],
+        "mac": [
+          "shots/homenetip/en-mac-1.jpg",
+          "shots/homenetip/en-mac-2.jpg"
+        ]
+      }
+    },
+    "desc": {
+      "he": "מי מחובר ל‑Wi‑Fi שלך עכשיו? אילו כתובות IP תפוסות ואילו פנויות? ומה המכשיר ההוא שאתה לא מזהה? HomeNetIP הופך את רשימת המספרים המבלבלת של הראוטר לתמונה ברורה של הרשת הביתית — תוך שניות.\n\nהקש פעם אחת וצפה ברשת מתעוררת לחיים. HomeNetIP סורק את ה‑Wi‑Fi וממלא כל מכשיר בזמן אמת, עם השם, כתובת ה‑IP והיצרן שלו. בלי לנחש אם המכשיר הלא מוכר הוא הנורה החכמה החדשה או מישהו שעדיף שלא יהיה ברשת.\n\nלראות הכל מיד\nגילוי משולב — Bonjour, mDNS, SSDP ו‑ping — מאתר טלפונים, מחשבים, טלוויזיות, קונסולות, מדפסות, מכשירי בית חכם, וגם דברים ששכחת שיש לך, כולם מופיעים בזמן אמת תוך כדי הסריקה.\n\nתובנות חכמות שפועלות\nHomeNetIP מנתח את הרשת ואומר לך בדיוק מה לעשות — ומלווה אותך צעד‑אחר‑צעד במסך ייעודי:\n• מכשיר חדש או לא מוכר ב‑Wi‑Fi? קבל התראה כדי לזהות אורח או פולש.\n• התנגשויות IP נתפסות לפני שהן מפילות משהו.\n• מכשירים שצריך לתת להם שם, חדר או קטגוריה — מטופלים בהקשה.\n• הקצאת IP קבוע, עם מדריך ראוטר מודרך והעתקה בלחיצה.\n• זיהוי יצרן לא מוכר — מוצע אוטומטית לפי כתובת ה‑MAC.\n• אחריות שמסתיימת, רישומים כפולים, חדרים ריקים, כתובות MAC אקראיות, ועוד.\n\nבדיקת הראוטר\nהרץ אבחון ping חי לשער הרשת ופתח את ממשק הניהול שלו בהקשה.\n\nארגון הבית\nקבץ מכשירים לחדרים ולקטגוריות שמתאימים לחיים האמיתיים — חדר הילדים, המשרד, הסלון. קרא את מפת ה‑IP במבט אחד, והער מחשב ישן עם Wake‑on‑LAN עוד לפני שנכנסת לחדר.\n\nייצוא הכל\nשמור את רשימת המכשירים כ‑CSV, ‏Excel, ‏Word או PDF לשיתוף, ארכוב או תיעוד.\n\nפרטי בעיצוב\nנתוני הרשת נשמרים על המכשיר ומסונכרנים רק דרך ה‑iCloud הפרטי שלך. אין חשבון ליצור, אין שרת שלנו לסמוך עליו, ושום דבר על הבית שלך לא נשלח אלינו — בלי פרסומות ובלי איסוף נתונים, אף פעם. נעל את האפליקציה מאחורי Face ID לשכבת פרטיות נוספת.\n\nחינם ופרימיום\nHomeNetIP חינמי לשימוש עד 2 חדרים ו‑20 מכשירים. פתח חדרים ומכשירים ללא הגבלה ברכישת פרימיום חד‑פעמית — רכישה חד‑פעמית, לא מנוי, ולעולם לא יהפוך למנוי.\n\nמעוצב ל‑iPhone, ל‑iPad ול‑Mac.\n\nתפסיק לנחש מה מחובר ל‑Wi‑Fi שלך. הורד את HomeNetIP וראה סוף סוף את הרשת הביתית בבירור.",
+      "en": "Who's on your Wi-Fi right now? Which IP addresses are taken, which are free, and what is that one device you don't recognize? HomeNetIP turns your router's cryptic list of numbers into a clear, living picture of your home network — in seconds.\n\nTap once and watch your network come to life. HomeNetIP scans your Wi-Fi and fills in every device live, in real time, showing each one's name, IP address and vendor. No more guessing whether that unknown gadget is your new smart bulb or someone you'd rather not have on your network.\n\nSEE EVERYTHING INSTANTLY\nBonjour, mDNS, SSDP and active ping discovery work together to find phones, laptops, TVs, consoles, printers, smart-home gear — and the things you forgot you owned — all appearing live as the scan runs.\n\nSMART INSIGHTS THAT ACT\nHomeNetIP studies your network and tells you exactly what to do next — then walks you through it on a dedicated, guided screen:\n• New or unknown device on your Wi-Fi? Get alerted so you can spot a guest or an intruder.\n• IP conflicts caught before they knock something offline.\n• Devices that still need a name, a room or a category — fixed in a tap.\n• Reserve a static IP, with a step-by-step router recipe and one-tap copy of the address.\n• Identify an unknown manufacturer — auto-suggested from the device's MAC.\n• Warranty ending soon, duplicate entries, empty rooms, randomized (private) MACs, and more.\n\nCHECK YOUR ROUTER\nRun a live ping diagnostic on your gateway and open its admin page in a single tap.\n\nORGANIZE YOUR HOME\nGroup devices into rooms and categories that match real life — the kids' room, the office, the living room. Read your IP map at a glance. Wake a sleeping computer with Wake-on-LAN before you walk into the room.\n\nEXPORT ANYTHING\nSave your full device list as CSV, Excel, Word or PDF to share, archive or document your setup.\n\nPRIVATE BY DESIGN\nYour network data lives on your device and syncs only through your own private iCloud. There's no account to create, no server of ours to trust, and nothing about your home is ever sent to us — no ads, no analytics, ever. Lock the app behind Face ID for an extra layer of privacy.\n\nFREE & PREMIUM\nHomeNetIP is free to download and use for up to 2 rooms and 20 devices. Unlock unlimited rooms and devices with a single one-time Premium purchase — a one-time unlock, not a subscription, and never will be.\n\nDesigned for iPhone, iPad and Mac.\n\nStop guessing what's on your Wi-Fi. Download HomeNetIP and finally see your home network clearly."
+    },
+    "copy": {
+      "he": {
+        "lead": [
+          "מי מחובר ל‑Wi‑Fi שלך עכשיו? אילו כתובות IP תפוסות ואילו פנויות? ומה המכשיר ההוא שאתה לא מזהה? HomeNetIP הופך את רשימת המספרים המבלבלת של הראוטר לתמונה ברורה של הרשת הביתית — תוך שניות.",
+          "הקש פעם אחת וצפה ברשת מתעוררת לחיים. HomeNetIP סורק את ה‑Wi‑Fi וממלא כל מכשיר בזמן אמת, עם השם, כתובת ה‑IP והיצרן שלו. בלי לנחש אם המכשיר הלא מוכר הוא הנורה החכמה החדשה או מישהו שעדיף שלא יהיה ברשת."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "מכשיר חדש או לא מוכר ב‑Wi‑Fi? קבל התראה כדי לזהות אורח או פולש."
+          },
+          {
+            "t": "",
+            "d": "התנגשויות IP נתפסות לפני שהן מפילות משהו."
+          },
+          {
+            "t": "מכשירים שצריך לתת להם שם, חדר או קטגוריה",
+            "d": "מטופלים בהקשה."
+          },
+          {
+            "t": "",
+            "d": "הקצאת IP קבוע, עם מדריך ראוטר מודרך והעתקה בלחיצה."
+          },
+          {
+            "t": "זיהוי יצרן לא מוכר",
+            "d": "מוצע אוטומטית לפי כתובת ה‑MAC."
+          },
+          {
+            "t": "",
+            "d": "אחריות שמסתיימת, רישומים כפולים, חדרים ריקים, כתובות MAC אקראיות, ועוד."
+          }
+        ]
+      },
+      "en": {
+        "lead": [
+          "Who's on your Wi-Fi right now? Which IP addresses are taken, which are free, and what is that one device you don't recognize? HomeNetIP turns your router's cryptic list of numbers into a clear, living picture of your home network — in seconds.",
+          "Tap once and watch your network come to life. HomeNetIP scans your Wi-Fi and fills in every device live, in real time, showing each one's name, IP address and vendor. No more guessing whether that unknown gadget is your new smart bulb or someone you'd rather not have on your network."
+        ],
+        "feats": [
+          {
+            "t": "",
+            "d": "New or unknown device on your Wi-Fi? Get alerted so you can spot a guest or an intruder."
+          },
+          {
+            "t": "",
+            "d": "IP conflicts caught before they knock something offline."
+          },
+          {
+            "t": "Devices that still need a name, a room or a category",
+            "d": "fixed in a tap."
+          },
+          {
+            "t": "",
+            "d": "Reserve a static IP, with a step-by-step router recipe and one-tap copy of the address."
+          },
+          {
+            "t": "Identify an unknown manufacturer",
+            "d": "auto-suggested from the device's MAC."
+          },
+          {
+            "t": "",
+            "d": "Warranty ending soon, duplicate entries, empty rooms, randomized (private) MACs, and more."
+          }
+        ]
+      }
     }
   }
 ]
