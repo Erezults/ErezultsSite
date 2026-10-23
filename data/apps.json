@@ -1,0 +1,333 @@
+[
+  {
+    "slug": "xpensy",
+    "bundleId": "com.erezults.xpensy",
+    "name": "Xpensy",
+    "nameHe": "Xpensy",
+    "subtitle": {
+      "en": "Scan, Split & Settle Up",
+      "he": "סורקים, מחלקים, מסדרים חשבון"
+    },
+    "promo": {
+      "en": "Track group-trip expenses, scan receipts with AI and settle up fairly, even offline. Update 1.22.1: a setup wizard for new accounts and security hardening.",
+      "he": "מעקב הוצאות בטיולים קבוצתיים, סריקת קבלות עם AI והתחשבנות הוגנת — גם בלי אינטרנט. עדכון 1.22.1: אשף התחלה לחשבון חדש והקשחת אבטחה."
+    },
+    "category": "FINANCE",
+    "categoryLabel": {
+      "en": "Finance",
+      "he": "כספים"
+    },
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6761180051",
+      "mac": "https://apps.apple.com/app/id6762307718"
+    },
+    "site": "https://xpensy.erezults.com",
+    "privacy": "https://xpensy.erezults.com/privacy",
+    "version": "1.22.0",
+    "icon": "icons/xpensy.png",
+    "shot": "shots/xpensy.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/27/3a/7f273a3a-f080-b7a9-742e-4e194e2362f7/iphone_en_01_trips.png/320x480bb.jpg",
+    "blurb": {
+      "he": "מעקב הוצאות בטיולים קבוצתיים, סריקת קבלות עם AI והתחשבנות הוגנת — גם בלי אינטרנט.",
+      "en": "Track group-trip expenses, scan receipts with AI and settle up fairly, even offline."
+    }
+  },
+  {
+    "slug": "ownest",
+    "bundleId": "com.erezults.ownest",
+    "name": "Ownest",
+    "nameHe": "Ownest",
+    "subtitle": {
+      "en": "Rental income, expenses & tax",
+      "he": "הכנסות, הוצאות ודוחות מס"
+    },
+    "promo": {
+      "en": "Run your rentals with confidence: rent tracking, receipts and Israeli tax reports in one calm place. 1.19: US + Israel tax center, video attachments and Face ID lock.",
+      "he": "נהלו את ההשכרות בביטחון — מעקב שכירות, קבלות ודוחות מס ישראליים במקום אחד רגוע. גרסה 1.19: מרכז מס ארה״ב וישראל, סרטונים לנכס ונעילה ב-Face ID."
+    },
+    "category": "FINANCE",
+    "categoryLabel": {
+      "en": "Finance",
+      "he": "כספים"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6782680064",
+      "mac": "https://apps.apple.com/app/id6782680064"
+    },
+    "site": "https://ownest.erezults.com",
+    "privacy": "https://ownest.erezults.com/privacy.html",
+    "version": "1.19.0",
+    "icon": "icons/ownest.png",
+    "shot": "shots/ownest.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/af/32/ccaf32d3-79ea-3b83-6282-3e693b0ebb3a/iphone_en_01.png/320x480bb.jpg",
+    "blurb": {
+      "he": "נהלו את ההשכרות בביטחון — מעקב שכירות, קבלות ודוחות מס ישראליים במקום אחד רגוע.",
+      "en": "Run your rentals with confidence: rent tracking, receipts and Israeli tax reports in one calm place."
+    }
+  },
+  {
+    "slug": "salarix",
+    "bundleId": "com.erezults.salarix",
+    "name": "Salarix",
+    "nameHe": "Salarix",
+    "subtitle": {
+      "en": "Salary & payslip tracker",
+      "he": "מעקב שכר, תלושים והעלאות"
+    },
+    "promo": {
+      "en": "All your payslips in one place: smart scanning, trends and anomaly checks. 1.16: hardened security, File ▸ Import Payslips (Cmd+O) on Mac and refund fixes.",
+      "he": "כל תלושי השכר שלכם במקום אחד — סריקה חכמה, מגמות ובדיקת חריגות. גרסה 1.16: אבטחה מוקשחת, ייבוא תלושים מה-Mac בתפריט קובץ (Cmd+O) ותיקוני החזרים."
+    },
+    "category": "FINANCE",
+    "categoryLabel": {
+      "en": "Finance",
+      "he": "כספים"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6783344327",
+      "mac": "https://apps.apple.com/app/id6783344327"
+    },
+    "site": "https://salarix.erezults.com",
+    "privacy": "https://salarix.erezults.com/privacy.html",
+    "version": "1.16.0",
+    "icon": "icons/salarix.png",
+    "shot": "shots/salarix.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/39/e9/0a39e955-5ea7-dd35-8581-5261ca5deedb/en_01.png/320x480bb.jpg",
+    "blurb": {
+      "he": "כל תלושי השכר שלכם במקום אחד — סריקה חכמה, מגמות ובדיקת חריגות.",
+      "en": "All your payslips in one place: smart scanning, trends and anomaly checks."
+    }
+  },
+  {
+    "slug": "fundiva",
+    "bundleId": "com.erezults.fundiva",
+    "name": "Fundiva",
+    "nameHe": "Fundiva",
+    "subtitle": {
+      "en": "Savings & Pension Tracker",
+      "he": "ניהול קרנות פנסיה וחיסכון"
+    },
+    "promo": {
+      "en": "Your family's pension and savings in one place: pension, provident and study funds with fee tracking. 1.13: hardened security, reliable backup import and sign-in.",
+      "he": "כל החיסכון הפנסיוני של המשפחה במקום אחד — פנסיה, גמל והשתלמות עם מעקב דמי ניהול. גרסה 1.13: אבטחה ופרטיות מוקשחות, ייבוא גיבוי וכניסה אמינים יותר."
+    },
+    "category": "FINANCE",
+    "categoryLabel": {
+      "en": "Finance",
+      "he": "כספים"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6786450072",
+      "mac": "https://apps.apple.com/app/id6786450072"
+    },
+    "site": "https://fundiva.erezults.com",
+    "privacy": "https://fundiva.erezults.com/privacy/en/",
+    "version": "1.13.0",
+    "icon": "icons/fundiva.png",
+    "shot": "shots/fundiva.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/5b/16/5f5b1684-28a6-0248-ea0a-e907ed080991/iphone_en_dark_01.png/320x480bb.jpg",
+    "blurb": {
+      "he": "כל החיסכון הפנסיוני של המשפחה במקום אחד — פנסיה, גמל והשתלמות עם מעקב דמי ניהול.",
+      "en": "Your family's pension and savings in one place: pension, provident and study funds with fee tracking."
+    }
+  },
+  {
+    "slug": "coin",
+    "bundleId": "com.erezcohen.cointracklover",
+    "name": "CoinTrackLover",
+    "nameHe": "CoinTrackLover",
+    "subtitle": {
+      "en": "Crypto Portfolio Tracker",
+      "he": "מעקב תיק הקריפטו שלך"
+    },
+    "promo": {
+      "en": "All your crypto purchases in one place: real profit and loss at a glance, and AI that reads your receipts. Now with a guided setup and a sharper, more accessible design.",
+      "he": "כל רכישות הקריפטו שלכם במקום אחד — רווח והפסד אמיתיים במבט אחד, וה-AI קורא את הקבלות. עכשיו עם אשף התחלה ועיצוב נגיש וחד יותר."
+    },
+    "category": "FINANCE",
+    "categoryLabel": {
+      "en": "Finance",
+      "he": "כספים"
+    },
+    "platforms": [
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6759471186"
+    },
+    "site": "https://coins.erezults.com",
+    "privacy": "https://www.termsfeed.com/live/6c46d5f8-672a-4a3c-8d27-2f0868e6cf63",
+    "version": "1.9.2",
+    "icon": "icons/coin.png",
+    "shot": "shots/coin.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/e2/cc/6ee2ccf9-d5c6-8b72-75df-d6e157934af5/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-02-21_at_19.26.23.png/320x480bb.jpg",
+    "blurb": {
+      "he": "כל רכישות הקריפטו שלכם במקום אחד — רווח והפסד אמיתיים במבט אחד, וה-AI קורא את הקבלות.",
+      "en": "All your crypto purchases in one place: real profit and loss at a glance, and AI that reads your receipts."
+    }
+  },
+  {
+    "slug": "healthy",
+    "bundleId": "com.erezults.healthynative",
+    "name": "Healthy Circle",
+    "nameHe": "Healthy Circle",
+    "subtitle": {
+      "en": "Family Health Records · AI",
+      "he": "תיק רפואי משפחתי · AI"
+    },
+    "promo": {
+      "en": "Your family's health records in one calm, private place. Update 1.19.1: a full security and privacy hardening pass and a sign-in fix.",
+      "he": "כל התיק הרפואי של המשפחה במקום אחד — פרטי, רגוע וחכם. עדכון 1.19.1: הקשחת אבטחה ופרטיות מקיפה ותיקון כניסה."
+    },
+    "category": "MEDICAL",
+    "categoryLabel": {
+      "en": "Medical",
+      "he": "רפואה"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6772523166",
+      "mac": "https://apps.apple.com/app/id6772523166"
+    },
+    "site": "https://healthy.erezults.com",
+    "privacy": "https://healthy.erezults.com/privacy",
+    "version": "1.19.0",
+    "icon": "icons/healthy.png",
+    "shot": "shots/healthy.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/cd/21/34cd2120-e963-b86f-c1af-6bcc46fcae4b/01_light_Simulator_Screenshot_iPhone_17_Pro_Max_2026_06_28_at_01.23.50.png/320x480bb.jpg",
+    "blurb": {
+      "he": "כל התיק הרפואי של המשפחה במקום אחד — פרטי, רגוע וחכם.",
+      "en": "Your family's health records in one calm, private place."
+    }
+  },
+  {
+    "slug": "emoryx",
+    "bundleId": "com.erezults.emoryx",
+    "name": "Emoryx",
+    "nameHe": "Emoryx",
+    "subtitle": {
+      "en": "Private Vault for Your Files",
+      "he": "כספת פרטית לקבצים שלך"
+    },
+    "promo": {
+      "en": "Your private vault for photos and videos: protected, discreet and simple. 1.44 brings a full security hardening pass, more reliable iCloud sync and Mac fixes.",
+      "he": "הכספת הפרטית שלכם לתמונות וסרטונים — מוגנת, דיסקרטית ופשוטה. גרסה 1.44: הקשחת אבטחה מקיפה, סנכרון iCloud אמין יותר ותיקונים ל-Mac."
+    },
+    "category": "PHOTO_AND_VIDEO",
+    "categoryLabel": {
+      "en": "Photo & Video",
+      "he": "תמונות ווידאו"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6772463822",
+      "mac": "https://apps.apple.com/app/id6772463822"
+    },
+    "site": "https://emoryx.erezults.com",
+    "privacy": "https://emoryx.erezults.com/privacy",
+    "version": "1.44.0",
+    "icon": "icons/emoryx.png",
+    "shot": "shots/emoryx.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6b/ee/0c6bee4c-bbf2-d32b-283a-b94fd59a6a67/01-vault-home.png/320x480bb.jpg",
+    "blurb": {
+      "he": "הכספת הפרטית שלכם לתמונות וסרטונים — מוגנת, דיסקרטית ופשוטה.",
+      "en": "Your private vault for photos and videos: protected, discreet and simple."
+    }
+  },
+  {
+    "slug": "groupy",
+    "bundleId": "com.erezults.groupycal",
+    "name": "Groupy Calendar",
+    "nameHe": "Groupy Calendar",
+    "subtitle": {
+      "en": "Shared family & group calendar",
+      "he": "יומן משותף למשפחה וקבוצה"
+    },
+    "promo": {
+      "en": "The shared calendar for your family and groups: events, payments and reminders in one place. New in 1.20: say \"Add to Groupy\" to Siri and the AI assistant saves it.",
+      "he": "היומן המשותף של הקבוצה והמשפחה — אירועים, תשלומים ותזכורות במקום אחד. חדש ב-1.20: אומרים ל-Siri \"Add to Groupy\" והעוזר ה-AI שומר את האירוע בשבילכם."
+    },
+    "category": "PRODUCTIVITY",
+    "categoryLabel": {
+      "en": "Productivity",
+      "he": "פרודוקטיביות"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6779937306",
+      "mac": "https://apps.apple.com/app/id6779937306"
+    },
+    "site": "https://groupy-web.erezults.com",
+    "privacy": "https://groupy-web.erezults.com/en/privacy.html",
+    "version": "1.20.0",
+    "icon": "icons/groupy.png",
+    "shot": "shots/groupy.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/56/49/1356491f-5e97-ffde-e447-32f9c0768c40/1-calendar.png/320x480bb.jpg",
+    "blurb": {
+      "he": "היומן המשותף של הקבוצה והמשפחה — אירועים, תשלומים ותזכורות במקום אחד.",
+      "en": "The shared calendar for your family and groups: events, payments and reminders in one place."
+    }
+  },
+  {
+    "slug": "homenetip",
+    "bundleId": "com.erezults.homenetip",
+    "name": "HomeNetIP",
+    "nameHe": "HomeNetIP",
+    "subtitle": {
+      "en": "Wi-Fi Scanner & Network Map",
+      "he": "סורק Wi-Fi ומפת כתובות IP"
+    },
+    "promo": {
+      "en": "See who's on your home network at a glance: scanning, alerts for unknown devices and smart management. 1.16: router refresh while the app is closed (premium).",
+      "he": "ראו מי מחובר לרשת הבית ברגע אחד — סריקה, התראות על מכשירים זרים וניהול חכם. גרסה 1.16: רענון נתוני הראוטר גם כשהאפליקציה סגורה (פרימיום) והקשחת אבטחה."
+    },
+    "category": "UTILITIES",
+    "categoryLabel": {
+      "en": "Utilities",
+      "he": "כלים"
+    },
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/app/id6780207542",
+      "mac": "https://apps.apple.com/app/id6780207542"
+    },
+    "site": "https://homenetip.erezults.com",
+    "privacy": "https://homenetip.erezults.com/privacy",
+    "version": "1.16.0",
+    "icon": "icons/homenetip.png",
+    "shot": "shots/homenetip.jpg",
+    "shotSrc": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f2/07/dff207e9-f273-69e9-49a0-411052863bf4/iphone_en_01_dashboard.png/320x480bb.jpg",
+    "blurb": {
+      "he": "ראו מי מחובר לרשת הבית ברגע אחד — סריקה, התראות על מכשירים זרים וניהול חכם.",
+      "en": "See who's on your home network at a glance: scanning, alerts for unknown devices and smart management."
+    }
+  }
+]
